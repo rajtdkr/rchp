@@ -24,10 +24,10 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Extra Curricular</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+	         <li><a className="smoothscroll" href="#resume">News</a></li>
+            <li><a className="smoothscroll" href="#portfolio">RCHP Projects</a></li>
+            <li><a className="smoothscroll" href="#testimonials">Get Involved</a></li>
+            <li><a className="smoothscroll" href="#contact">Contact US</a></li>
          </ul>
 
       </nav>
@@ -35,7 +35,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3>A {city} based <span>{occupation}</span>, {description}</h3>
+            <h3><span>{occupation}</span>, {description}</h3>
             <hr />
             <ul className="social">
                {networks}

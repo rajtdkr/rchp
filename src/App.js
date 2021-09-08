@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import MouseParticles from 'react-mouse-particles'
-import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
@@ -19,10 +18,6 @@ class App extends Component {
       foo: 'bar',
       resumeData: {}
     };
-
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
-
   }
 
   getResumeData(){
@@ -47,7 +42,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <MouseParticles g={1} color="random" cull="col,image-wrapper"/>
 
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
@@ -55,7 +49,7 @@ class App extends Component {
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Extras data={this.state.resumeData.Extras}/>
         <Contact data={this.state.resumeData.main}/>
-        <Footer data={this.state.resumeData.main}/>
+        <Footer data={this.state.resumeData.Contact}/>
       </div>
     );
   }
