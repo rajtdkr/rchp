@@ -4,16 +4,16 @@
     "occupation":"People of Action",
     "description":"Rotary is where neighbors, friends, and problem-solvers share ideas, join leaders, and take action to create lasting change",
     "image":"profilepic.jpg",
-    "bio":"Using data to shape future decisions has always been a passion. I mainly work with Natural Language Processing and Image processing, however enjoy working with data in general. With a bit of background in software engineering, I always loved programming my ideas to real life.   I sometimes love to sing, and play my guitar :).",
+    "bio":"Club data :).",
 
     "contactmessage":"A CONTACT MESSAGE",
-    "email": "rajtdkr@gmail.com",
+    "email": "rotary email address",
     "phone": "",
     "address":{
-      "street":"Light Street",
-      "city":"Perth",
-      "state":"WA",
-      "zip": "6059"
+      "street":"Himalaya patan",
+      "city":"Lalitpur",
+      "state":"State No. 3",
+      "zip": ""
     },
     "website": "http://www.rajtandukar.vercel.app",
     "resumedownload":"https://drive.google.com/file/d/1I2OFEGAwvKJ9C2eMHrQD6oLbpF1005pO/view?usp=sharing",
@@ -31,9 +31,9 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/razedyrs__/",
-        "className":"fa fa-instagram"
+        "name":"facebook",
+        "url":"https://www.facebook.com/rotaryclubofhimalayapatan",
+        "className":"fa fa-facebook"
       },
       {
         "name":"github",
@@ -57,28 +57,26 @@
     ],
     "work":[
       {
-        "company":"Lotterywest",
-        "title":"Analysis and Insights Support Officer",
-        "years":" Jun 2020 – Present",
-        "description":"Exploring large datasets to discover trends and patterns with the view of extracting relevant business insights, and Developing new reports as the need arises in partnership with the Data Analysts including data input, data compilation, data checking and elementary data visualisation"
+        "company":"Project 1",
+        "title":"Movement",
+        "years":" Date1",
+        "description":"Description"
       },
       {
-        "company":"Laconik",
-        "title":"Data Scientist ",
-        "years":" Feb 2020 – May 2021 ",
-        "description":"Building a model to determine the optimum rate of Potassium and Sulphur fertilizer which is used to maximize the crop yield considering various factors using historical yield.."
+        "company":"Project 2",
+        "title":"Movement ",
+        "years":" Date2 ",
+        "description":"Description.."
       },
-      {
-        "company":"Southern Railways, India ",
-        "title":"Android Developer",
-        "years":"March 2007 - February 2010",
-        "description":"Developed a project for government of Southern Railways, India included website and android application with a team of 10 being presently operated by inspectors of India tracking over 5000 locos and co-locos in over 15 districts of Tamilnadu, India."
+      {  "company":"Project 3",
+        "title":"Movement ",
+        "years":" Date3 ",
+        "description":"Description.."
       },
-      {
-        "company":"Plazma-tech Pvt Ltd",
-        "title":"Android Developer",
-        "years":"Dec 2017 - Jan 2018",
-        "description":"Constructed an android application for proper Flight Data Management, currently in use by 80% Domestic Airlines of Nepal."
+         {  "company":"Project 3",
+        "title":"Movement ",
+        "years":" Date3 ",
+        "description":"Description.."
       }
     ],
     "skills":[
@@ -116,41 +114,43 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Essay Marking Assistant",
+        "title":"PROJECT 1",
         "category":"Natural Language Processing",
         "image":"EMA.png",
         "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
-        "description" : "Automated Essay Scoring (AES) or Automated Essay Grading (AEG) refers to a challenging Natural Language Processing task (NLP) which involves evaluation of descriptive answer scripts to provide a legitimate human equivalent result. "
+        "description" : "Description 1. "
       },
       {
-        "title":"Automatic Answer Evaluation",
+        "title":"PROJECT 2",
         "category":"Natural Language Processing",
-        "image":"AAE.png",
-        "url":"http://www.google.com",
-        "description" : "Conducted and published a research project with a team of five, to develop an intelligent system to  evaluate descriptive answers. The technical expertise of Natural Language Processing and Deep Learning  were exploited in this project. "
+        "image":"EMA.png",
+        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
+        "description" : "Description 2. "
       },
       {
-        "title":"Virtual Book",
-        "category":"Mobile Application",
-        "image":"VB.png",
-        "description" : " Acquired first place developing “Virtual Book”, a Cross-Platform application with Unity coded in C# and  Vuforia database as back-end. The concept behind the development of this application is for users to get  a clear understanding of what writer is trying to imply. This application detects image of writer’s content  and plays a video above it. \n"
+        "title":"PROJECT 3",
+        "category":"Natural Language Processing",
+        "image":"EMA.png",
+        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
+        "description" : "Description 3. "
       },
       {
-        "title":"Mr. Braniac",
-        "category":"Mobile Quiz",
-        "image":"Mr Braniac.jpg",
-        "description" : "Android Application developed for training and checking aptitude of a student, based on the current job  market. \n"
+        "title":"PROJECT 4",
+        "category":"Natural Language Processing",
+        "image":"EMA.png",
+        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
+        "description" : "Description 4. "
       }
     ]
   },
   "Extras":{
     "Extras":[
       {
-        "text":"Volunteering"
+        "text":"Board Members"
       },
       {
-        "text":"Rotaract Club of Perth",
-        "user":"Vice President/ Secretary, Perth, WA / 2020"
+        "text":"Yuvraj Nakarmi",
+        "user":"President"
       },
       {
         "text":"Uni-Mentor",
