@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Rotary Club of Himalaya Patan",
-    "occupation":"People of Action",
-    "description":"Rotary is where neighbors, friends, and problem-solvers share ideas, join leaders, and take action to create lasting change",
+    "occupation":"Club no: 63381\nRID 3292 - Nepal/Bhutan",
+    "description":" People of Action. Rotary is where neighbors, friends, and problem-solvers share ideas, join leaders, and take action to create lasting change",
     "image":"profilepic.jpg",
-    "bio":"Club data :).",
+    "bio":"Paul Harris, the father of Rotary Movement, was born on April 29, 1868.  When he passed on 27 January, 1947, he left behind for making a rich legacy  of fellowship and brotherhood for international understanding and services  to humanity. Today, the seed he sowed in 1905 has blossomed into a large  tree having 1.2 million Rotarians across the globe.\n",
 
     "contactmessage":"A CONTACT MESSAGE",
-    "email": "rotary email address",
+    "email": "rchpnepal@gmail.com",
     "phone": "",
     "address":{
       "street":"Himalaya patan",
@@ -114,11 +114,11 @@
   "portfolio":{
     "projects": [
       {
-        "title":"PROJECT 1",
+        "title":"Bag Donation Project",
         "category":"Natural Language Processing",
-        "image":"EMA.png",
-        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
-        "description" : "Description 1. "
+        "image":"BagDonation.jpg",
+        "url":"https://drive.google.com/drive/folders/1iHOUrOO-gKMAiJNXmzLPN7zn5IypHrqr?usp=sharing",
+        "description" : "Description about this project"
       },
       {
         "title":"PROJECT 2",
@@ -149,17 +149,17 @@
         "text":"Board Members"
       },
       {
-        "text":"Yuvraj Nakarmi",
+        "text":"Uraj Nakarmi",
         "user":"President"
       },
       {
-        "text":"Uni-Mentor",
-        "user":"University of Western Australia , Perth, WA / 2020"
+        "text":"Suresh Man Maharjan",
+        "user":"Past President"
       },
 
       {
-        "text":"Rotaract Club of Himalayan Patan",
-        "user":"Member, Lalitpur, Nepal / 2018"
+        "text":"Name?",
+        "user":"Secretary"
       }
     ]
   }

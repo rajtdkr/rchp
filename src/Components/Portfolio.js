@@ -48,7 +48,7 @@ class Portfolio extends Component {
       <section id="portfolio">
       <div className="row" style={{width : '100%'}}>
          <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Rotaract Club of Himalaya Patan Projects</h1>
             <div >
                 {projects}
             </div>
