@@ -75,18 +75,35 @@
   },
   "Extras":{
     "Extras":[
-      {
-        "text":"Board Members"
-      },
+
       {
         "text":"Uraj Nakarmi",
-        "user":"President"
+        "user":"President, 2020/2021"
       },
       {
         "text":"Suresh Man Maharjan",
         "user":"Past President"
       },
-
+      {
+        "text":"Name?",
+        "user":"Secretary"
+      },
+      {
+        "text":"Name?",
+        "user":"Secretary"
+      },
+      {
+        "text":"Name?",
+        "user":"Secretary"
+      },
+      {
+        "text":"Name?",
+        "user":"Secretary"
+      },
+      {
+        "text":"Name?",
+        "user":"Secretary"
+      },
       {
         "text":"Name?",
         "user":"Secretary"

@@ -23,17 +23,10 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Raj Tandukar Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>Our Causes</h2>
+            <h1 style={{color : '#ffffff'}}>Our Causes</h1>
 
             <p>{bio}</p>
-            <div className="row">
 
-               <div className="columns download">
-                  <p>
-                     {/*<a href={resumeDownload} className="button"><i className="fa fa-download"></i>Press to Download Resume</a>*/}
-                  </p>
-               </div>
-            </div>
          </div>
       </div>
 

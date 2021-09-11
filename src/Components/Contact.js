@@ -24,8 +24,8 @@ export default function ContactUs() {
 
         return (
 
-            <div   style={{paddingTop : '10%', paddingBottom : '8%'}} align={'center'}>
-                <h1> <MailOutlined /> {'    '}A CONTACT MESSAGE</h1>
+            <div   style={{paddingTop : '10%', paddingBottom : '8%', background : '#0d2735'}} align={'center'}>
+                <h1 style={{color : "#ffffff"}}> <MailOutlined /> {'    '}CONTACT US</h1>
                 <form className="contactForm" onSubmit={sendEmail} style={{paddingTop : '5%', paddingBottom : '2%'}}>
                               <div style={{width: '50%', overflow: 'hidden'}}>
                                   <div style={{width: '5%', float: 'left'}}>

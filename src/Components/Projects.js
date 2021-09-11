@@ -27,7 +27,7 @@ class Projects extends Component {
 
            <Card  style={mystyle} bordered={true}>
         <div style={{width: '100%', overflow: 'hidden'}}>
-               <h5>{projects.title}</h5>
+               <h4 style={{lineHeight:"30px" , fontSize: 'x-large', fontWeight: 'bold'}}>{projects.title}</h4><br/>
                <a href={projects.url} title={projects.title} >
                    <div style={{width: '300px', float: 'left'}}>
                <img alt={projects.title} src={projectImage} style={mystyle_cards}/>
@@ -48,7 +48,7 @@ class Projects extends Component {
       <section id="portfolio">
       <div className="row" style={{width : '100%'}}>
          <div className="twelve columns collapsed">
-            <h1>Rotaract Club of Himalaya Patan Projects</h1>
+            <h1 style={{color : '#ffffff'}}>Rotaract Club of Himalaya Patan Projects</h1>
             <div >
                 {projects}
             </div>

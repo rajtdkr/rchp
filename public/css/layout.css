@@ -245,7 +245,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#resume a:hover, #resume a:focus { color: #ffcbcb; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -916,7 +916,7 @@ call-to-action .button {
 footer {
    padding-top: 100px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #95A3A3;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -978,7 +978,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #525252;
+	background-color: #348184;
 
 	-webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;
