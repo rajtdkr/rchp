@@ -58,18 +58,11 @@
         "description" : "Description 2. "
       },
       {
-        "title":"PROJECT 3",
+        "title":"School Building",
         "category":"Natural Language Processing",
-        "image":"EMA.png",
-        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
+        "image":"schoolprototype.jpg",
+        "url":"https://drive.google.com/drive/folders/1hIiZ8ZRhZNlkXI9UqPCOHj6jMTYTWdy5?usp=sharing",
         "description" : "Description 3. "
-      },
-      {
-        "title":"PROJECT 4",
-        "category":"Natural Language Processing",
-        "image":"EMA.png",
-        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
-        "description" : "Description 4. "
       }
     ]
   },
@@ -80,33 +73,26 @@
         "text":"Uraj Nakarmi",
         "user":"President, 2020/2021"
       },
+
+      {
+        "text":"Name?",
+        "user":"Vice President"
+      },
+      {
+        "text":"Name?",
+        "user":"Secretary"
+      },
+      {
+        "text":"Name?",
+        "user":"Tresearur"
+      },
+      {
+        "text":"Name?",
+        "user":"One more"
+      },
       {
         "text":"Suresh Man Maharjan",
         "user":"Past President"
-      },
-      {
-        "text":"Name?",
-        "user":"Secretary"
-      },
-      {
-        "text":"Name?",
-        "user":"Secretary"
-      },
-      {
-        "text":"Name?",
-        "user":"Secretary"
-      },
-      {
-        "text":"Name?",
-        "user":"Secretary"
-      },
-      {
-        "text":"Name?",
-        "user":"Secretary"
-      },
-      {
-        "text":"Name?",
-        "user":"Secretary"
       }
     ]
   }

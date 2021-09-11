@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import {CaretUpOutlined} from "@ant-design/icons";
+import { FacebookOutlined  } from '@ant-design/icons'
 
 class Header extends Component {
   render() {
@@ -24,7 +26,6 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
-	         {/*<li><a className="smoothscroll" href="#resume">News</a></li>*/}
             <li><a className="smoothscroll" href="#portfolio">RCHP Projects</a></li>
             <li><a className="smoothscroll" href="#meettheboard">Meet the Board</a></li>
             <li><a className="smoothscroll" href="#contactus">Contact Us</a></li>
@@ -38,13 +39,14 @@ class Header extends Component {
             <h1 className="responsive-headline" style={{paddingBottom : '35px' , color : '#1b234a'}}>{name}</h1>
             <h3 style={{paddingBottom : '300px' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></h3>
             <hr />
-            <ul className="social">
-               {networks}
-            </ul>
+
+              <div  ><a  style={{color : '#1b234a', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>
+
          </div>
       </div>
 
-      <p className="scrolldown">
+
+     <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
 

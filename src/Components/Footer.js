@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { CaretUpOutlined  } from '@ant-design/icons'
+import {CaretUpOutlined, FacebookOutlined} from '@ant-design/icons'
 
 class Footer extends Component {
   render() {
@@ -29,11 +29,14 @@ class Footer extends Component {
                            <br />
 
                      <span>Email: rchpnepal@gmail.com</span>
-					   </p>
+					   </p> <div  ><a  style={{color : '#1b234a', fontSize : '18px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>
 
-              <li>&copy; Copyright</li>
+
+    <h6>
+              &copy; Copyright <br/>
               {/*<li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>*/}
-               <li>Rotaract Club of Himalaya Patan</li>
+              Rotaract Club of Himalaya Patan
+    </h6>
            </ul>
 
         </div>
