@@ -45,10 +45,10 @@ class Projects extends Component {
       })
     }
     return (
-      <section id="portfolio">
+      <section id="projects" style={{background : '#14394e'}}>
       <div className="row" style={{width : '100%'}}>
          <div className="twelve columns collapsed">
-            <h1 style={{color : '#ffffff'}}>Rotaract Club of Himalaya Patan Projects</h1>
+            <h1 style={{color : '#ffffff', paddingTop : '8%', paddingBottom: '3%'}}>Rotaract Club of Himalaya Patan Projects</h1>
             <div >
                 {projects}
             </div>

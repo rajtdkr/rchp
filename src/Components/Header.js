@@ -26,8 +26,8 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
-            <li><a className="smoothscroll" href="#portfolio">RCHP Projects</a></li>
-            <li><a className="smoothscroll" href="#meettheboard">Meet the Board</a></li>
+            <li><a className="smoothscroll" href="#projects">RCHP Projects</a></li>
+            <li><a className="smoothscroll" href="#Extras">Meet the Board</a></li>
             <li><a className="smoothscroll" href="#contactus">Contact Us</a></li>
 
          </ul>
@@ -37,7 +37,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline" style={{paddingBottom : '35px' , color : '#1b234a'}}>{name}</h1>
-            <h3 style={{paddingBottom : '300px' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></h3>
+            <h3 style={{paddingBottom : '30%' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></h3>
             <hr />
 
               <div  ><a  style={{color : '#1b234a', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>

@@ -23,7 +23,7 @@ export default function ContactUs() {
   }
 
         return (
-
+<section id="contactus">
             <div   style={{paddingTop : '10%', paddingBottom : '8%', background : '#0d2735'}} align={'center'}>
                 <h1 style={{color : "#ffffff"}}> <MailOutlined /> {'    '}CONTACT US</h1>
                 <form className="contactForm" onSubmit={sendEmail} style={{paddingTop : '5%', paddingBottom : '2%'}}>
@@ -45,6 +45,7 @@ export default function ContactUs() {
                 </form>
 
             </div>
+</section>
         );
 
 }
