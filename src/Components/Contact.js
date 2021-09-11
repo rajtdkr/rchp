@@ -13,7 +13,7 @@ export default function ContactUs() {
  function sendEmail(e) {
     e.preventDefault();
 
-    emailjs.sendForm('service_46rhxwp', 'service_46rhxwp', e.target, 'user_O6cIVJD4XA6JetKZIz9HH')
+    emailjs.sendForm('service_46rhxwp', 'template_6xv43cg', e.target, 'user_O6cIVJD4XA6JetKZIz9HH')
       .then((result) => {
           console.log(result.text);
       }, (error) => {

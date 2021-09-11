@@ -35,8 +35,8 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
-            <h3><span>{occupation}</span>, <br/> {description}</h3>
+            <h1 className="responsive-headline" style={{paddingBottom : '35px' , color : '#444444'}}>{name}</h1>
+            <h3 style={{paddingBottom : '300px' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></h3>
             <hr />
             <ul className="social">
                {networks}
