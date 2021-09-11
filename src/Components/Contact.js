@@ -43,6 +43,7 @@ export default function ContactUs() {
                     <input  type="submit" value="Send" />
 
                 </form>
+
             </div>
         );
 

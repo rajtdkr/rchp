@@ -3,7 +3,7 @@ import { Card } from 'antd';
 import { Divider } from '@material-ui/core';
 
 
-class Portfolio extends Component {
+class Projects extends Component {
 
 
   render() {
@@ -58,4 +58,4 @@ class Portfolio extends Component {
     );
   }
 }
-export default Portfolio;
+export default Projects;

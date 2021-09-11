@@ -15,8 +15,7 @@
       "state":"State No. 3",
       "zip": ""
     },
-    "website": "http://www.rajtandukar.vercel.app",
-    "resumedownload":"https://drive.google.com/file/d/1I2OFEGAwvKJ9C2eMHrQD6oLbpF1005pO/view?usp=sharing",
+
     "social":[
 
 
@@ -42,75 +41,6 @@
       }
     ]
   },
-  "resume":{
-    "education":[
-      {
-        "school":"UNIVERSITY OF WESTERN AUSTRALIA ",
-        "degree":"Master of Data Science",
-        "graduated":" 2019 - 2020 "
-      },
-      {
-        "school":"Anna University",
-        "degree":"Bachelor’s in Computer Engineering",
-        "graduated":" 2014 – 2018"
-      }
-    ],
-    "work":[
-      {
-        "company":"Project 1",
-        "title":"Movement",
-        "years":" Date1",
-        "description":"Description"
-      },
-      {
-        "company":"Project 2",
-        "title":"Movement ",
-        "years":" Date2 ",
-        "description":"Description.."
-      },
-      {  "company":"Project 3",
-        "title":"Movement ",
-        "years":" Date3 ",
-        "description":"Description.."
-      },
-         {  "company":"Project 3",
-        "title":"Movement ",
-        "years":" Date3 ",
-        "description":"Description.."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Python",
-        "level":"80%"
-      },
-
-      {
-        "name":"SQL",
-        "level":"80%"
-      },
-      {
-        "name":"Git",
-        "level":"70%"
-      },
-      {
-        "name":"R",
-        "level":"75%"
-      },
-      {
-        "name":"Cloud Computing",
-        "level":"60%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"20%"
-      }
-    ]
-  },
   "portfolio":{
     "projects": [
       {
@@ -121,10 +51,10 @@
         "description" : "Description about this project"
       },
       {
-        "title":"PROJECT 2",
+        "title":"Heart Hospital Project",
         "category":"Natural Language Processing",
-        "image":"EMA.png",
-        "url":"https://github.com/rajtdkr/Essay-Marking-Assistant",
+        "image":"HHproposal.png",
+        "url":"https://drive.google.com/file/d/1i7aiYLEiWa4N0jWh7lAKL2JDnli_s13u/view",
         "description" : "Description 2. "
       },
       {

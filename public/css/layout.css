@@ -10,7 +10,7 @@
    b. Header Styles
    c. About Section
    d. Resume Section
-   e. Portfolio Section
+   e. Projects Section
    f. Call To Action Section
    g. Extras Section
    h. Contact Section
@@ -415,7 +415,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* ------------------------------------------------------------------ */
-/* e. Portfolio Section
+/* e. Projects Section
 /* ------------------------------------------------------------------ */
 
 #portfolio {
@@ -432,7 +432,7 @@ ul#nav li.current a { color: #F06000; }
    color: #95A3A3;
 }
 
-/* Portfolio Content */
+/* Projects Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
@@ -915,7 +915,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 footer {
-   padding-top: 48px;
+   padding-top: 100px;
    margin-bottom: 48px;
    color: #303030;
    font-size: 14px;
@@ -929,7 +929,7 @@ footer a:hover, footer a:focus { color: #fff; }
 /* copyright */
 footer .copyright {
     margin: 0;
-    padding: 0;
+    padding-left: 380px;
  }
 footer .copyright li {
     display: inline-block;

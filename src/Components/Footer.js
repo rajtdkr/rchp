@@ -31,12 +31,12 @@ class Footer extends Component {
                  <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>Patan Dhoka</span><br />
+						   <span>Lalitpur<br />
+						         State 3. Nepal
                    </span><br />
 
-                     <span>{email}</span>
+                     <span>rchpnepal@gmail.com</span>
 					   </p>
                </div>
               {/*<li>&copy; Copyright</li>*/}
