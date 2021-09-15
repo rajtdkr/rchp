@@ -36,11 +36,11 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline" style={{paddingBottom : '35px' , color : '#1b234a'}}>{name}</h1>
+            <h1 className="responsive-headline" style={{paddingBottom : '5%' , color : '#1b234a'}}>{name}</h1>
             <h3 style={{paddingBottom : '30%' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></h3>
             <hr />
 
-              <div  ><a  style={{color : '#1b234a', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>
+              <div  ><a  style={{color : '#f06000', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>
 
          </div>
       </div>

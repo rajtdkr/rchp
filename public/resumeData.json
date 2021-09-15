@@ -43,26 +43,40 @@
   },
   "portfolio":{
     "projects": [
+
       {
-        "title":"Bag Donation Project",
-        "category":"Natural Language Processing",
-        "image":"BagDonation.jpg",
-        "url":"https://drive.google.com/drive/folders/1iHOUrOO-gKMAiJNXmzLPN7zn5IypHrqr?usp=sharing",
-        "description" : "Description about this project"
-      },
-      {
-        "title":"Heart Hospital Project",
-        "category":"Natural Language Processing",
+        "title":"Rotary Community Heart Care Center \n",
+        "category":"",
         "image":"HHproposal.png",
         "url":"https://drive.google.com/file/d/1i7aiYLEiWa4N0jWh7lAKL2JDnli_s13u/view",
-        "description" : "Description 2. "
+        "description" :  "During the Rotary Year 2013-2014 during the \nPresidency of Rtn. Rajendra Tandukar, Rotary  \nClub of Himalaya Patan (RCHP) as a lead club  \nand Manidol Tole Sudhar Samiti (MTSS) forwarded  \nthe concept of establishing Heart Hospital in  \nShankhamul Town Planning Area, Lalitpur for which  \nMTSS generously provided the plot of lan (9,000  \nsq.ft) for the construction of hospital facilities. \nThe concept later on endorsed by the Rotary  \nInternational District 3292 (RID 3292) during  \ngovernorship of DG Dilendra Raj Shrestha, proposed  \nthe project as RID 3292 Rotary Community Heart  \n\n\n\nCare Center and Nepal Heart Foundation, Lalitpur  (NHFL)joined as fourth implementing organizations  of the project. \nRCHP has taken the responsibility of fund raising for  the project, NHFL has agreed to take the responsibility  of operational part of the hospital and RID 3292will  be responsible for providing equipments necessary  for the hospital with the support from different foreign  Rotary Clubs, Rotary Districts and The Rotary  Foundation as well.  \nThe proposed Rotary Community Heart Care  Center will be a 25-bed community care center and  registered as a non-profit community hospital. It  will operate on subsidized service charges on self \nsustaining basis\n"   },
+      {
+        "title":"My School Bag",
+        "category":"",
+        "image":"MySchoolBag.png",
+        "url":"https://drive.google.com/drive/folders/1iHOUrOO-gKMAiJNXmzLPN7zn5IypHrqr?usp=sharing",
+        "description" : "To supplement the post relief program on  \neducation in 2015, Rotary Club of Himalaya  \nPatan (RCHP), in coordination of Rtn.  \nSanam Shakya initiated to distribute the  \nschool bag containing basic stationary  \nmaterials to students from grade I-V.  \nBeneficiary children were from the affected  \nareas of Lalitpur, Nuwakot, Gorkha and  \nKavre districts. The project started with  \nthe seed amount of NPR 50,000.00 and  \nfund being multiplied after launching the  \nprojects, RCHP set the target of distributing  \n100k students around the district. The club  \nachieving 2000+ distributions in the first  \nyear of 2015. The project continues as flat  \nsheet project to fullfill the target. \nSeeing the popularity and effectiveness  \nof the projects, many generous people,  \nRotarian, Rotaractors, people and  \ninstitutions have contributed and promised  \nto fund the project and RCHP is all set  \ndelivering the primary needs of educational  \nmaterials to school children. \n"
       },
       {
-        "title":"School Building",
-        "category":"Natural Language Processing",
-        "image":"schoolprototype.jpg",
+        "title":"One School a Year",
+        "category":"",
+        "image":"OneSchoolaYear.png",
         "url":"https://drive.google.com/drive/folders/1hIiZ8ZRhZNlkXI9UqPCOHj6jMTYTWdy5?usp=sharing",
-        "description" : "Description 3. "
+        "description" : "The devastating Gorkha earthquake of April 25, 2015 caused many deaths, casualties,  damages of many private and public structures. Among many damages, 7923 schools  building were affected causing the thousands of children being forced to take education  under open sky or temporary bamboo shelters. \nMany helpful hands came  \nforward to re-establish/ \nrehabilitate the demolished  \nstructures and to retain the  \ndeprived students. In the  \nsame line, Rotary Club of  \nHimalaya Patan (RCHP) in  \ninitiation of Rtn. Santa Ratna  \nShakya decided to launch  \nthe “One School a Year” project. Son  \nof Light (SOL)-Nepal, SOL-Japan,  \nSOL-Germany and Smile for Nepal  \n(SN) agreed to support RCHP in this  \ngenerous effort to give back smile in the  \nfaces of children securing their rights of  \neducation.  \nRCHP and SOLs have rebuild two schools at Makaising-Gorkha and Dalbhanjyang-Gorkha  in 2015 and 2016 respectively and dedicated to continue as the name of the project “One  School a Year” \n"
+      },
+      {
+        "title":"Class Room Painting",
+        "category":"",
+        "image":"Classroompainting.png",
+        "url":"https://drive.google.com/drive/folders/1hIiZ8ZRhZNlkXI9UqPCOHj6jMTYTWdy5?usp=sharing",
+        "description" : "Environment is an issue  \nthat evolves within  \nevery organizations and  \nmind of every human  \nin this developing  \nage. Environment can  \nbe differentiated in  \ntwo sectors. Natural  \nEnvironment and  \nlearning environment.  \nRotary Club of Himalaya  \nPatan (RCHP) decided  \nto take the “learning  \nenvironment” in its projects. In association with Partners-in-service “Rotaract Club of  Himalaya Patan” conceptualized its thought of working environment into reality by painting  classroom based Montessori approach in the government schools.  \nSupporting the  \nchildren and students  \nin kind is not enough  \nto bring smile in  \nthe little faces but  \nalso to make them  \nequipped with their  \nbasic requirements  \nand provide them  \nthe “learning  \nenvironment” that  \ndraws them towards  \nthe light of education.  \nRCHP in the year 2006, in mentorship of Rtn. Biso Bajracharya & Rtn. Nabin Man  Shrestha, initiated the classroom painting with child friendly pictures and images making  the classrooms child friendly learning environment. \nThe first project accomplished at Patan High School-Lalitpur in 2006 and continues  till by education committee. \n"
+      },
+      {
+        "title":"Hamro Pani Dashain",
+        "category":"Natural Language Processing",
+        "image":"Hamropanidashain.png",
+        "url":"https://drive.google.com/drive/folders/1hIiZ8ZRhZNlkXI9UqPCOHj6jMTYTWdy5?usp=sharing",
+        "description" : "Dashain being one of the greatest festival of Nepalese is celebrated with great enthusiasm  all over the country by every citizens. Each and every invites one another to be a part of  festive celebration. However, certain groups are left isolated becoming a part of seasonal  occasion.  \nRCHP in its charter year 2003,  \nunder the coordination of President  \nRtn. Biso Bajracharya, launched  \nthe project “Hamro Pani Dashain”  \non the eighth day of Festival “Maha  \nAsthami” for the isolated group “Street  \nChildren”-children being forced to live  \nin the street due to many reasons.  \nSATHSATH –an organization working  \nwith such groups joined hand in  \norganizing Tika Program and feast.  \nThe blessings for the children were bestowed by  \nLate Rtn. Gopal Raj Rajbhandari, Rtn. Dr. Tika Man  \nVaidya and Rtn. Dilendra Raj Shrestha and other  \ndistrict officials then. \nRCHP, now commemorating its 14th year, the flavor  \nof project still continues among the different groups  \nthat are also being isolated from the society during  \nthe occasion. One of the groups are Senior Citizens  \nin oldage home.  \nOne day event is being scheduled every year for  \nthese groups with its partners-in-service, Rotaract  \nClub of Himalaya Patan . RCHP aims to do something  \nto both the groups at least for the day to cheer them  \nup and to express the moment which gave the ripple  \neffect of happiness. \n"
       }
     ]
   },
@@ -70,29 +84,75 @@
     "Extras":[
 
       {
-        "text":"Uraj Nakarmi",
-        "user":"President, 2020/2021"
+        "text":"Rtn. Uraj Nakarmi",
+        "user":"President"
+      },
+      {
+        "text":"Rtn. Suresh Man Maharjan",
+        "user":"Immediate Past President"
+      },
+      {
+        "text":"Rtn. Prabin Amatya",
+        "user":"President Elect"
       },
 
       {
-        "text":"Name?",
+        "text":"Rtn. Ishwor Manandhar",
         "user":"Vice President"
       },
       {
-        "text":"Name?",
+        "text":"Rtn. Sonu S. Bajracharya",
         "user":"Secretary"
       },
       {
-        "text":"Name?",
-        "user":"Tresearur"
+        "text":"Rtn. Sumedh Shakya",
+        "user":"Jt. Secretary"
       },
       {
-        "text":"Name?",
-        "user":"One more"
+        "text":"Rtn. Kaskhi Burlakoti",
+        "user":"Tresarer"
       },
       {
-        "text":"Suresh Man Maharjan",
-        "user":"Past President"
+        "text":"Rtn. Sanjeev Shakya",
+        "user":"Jt. Tresarer"
+      },
+      {
+        "text":"Rtn. Shova Shakya Bajracharya",
+        "user":"Club Administration"
+      },
+
+      {
+        "text":"Rtn. Raju Byanjankar",
+        "user":"Director: Club Membership"
+      },
+      {
+        "text":"Rtn. Rakesh Lal Shingh",
+        "user":"Public Relation"
+      },
+      {
+        "text":"Rtn. Dr. Grishma Bajracharya",
+        "user":"Director: Service Project"
+      },
+      {
+        "text":"Rtn. Sanam Shakya",
+        "user":"Director-TRF"
+      },
+
+      {
+        "text":"Rtn. Nabin Man Shrestha",
+        "user":"Sgt-at-arms"
+      },
+      {
+        "text":"Rtn. Yogendra Chitrakar",
+        "user":"Club Trainer"
+      },
+      {
+        "text":"Rtn. Rajendra Tandukar",
+        "user":"Club Mentor"
+      },
+      {
+        "text":"Rtn. Govinda Singh",
+        "user":"Editor"
       }
     ]
   }
