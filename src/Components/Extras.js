@@ -8,7 +8,6 @@ class Extras extends Component {
             <blockquote>
                <p> <h4  style={{color : '#ffcd15'}}>{Extras.text}</h4>
                    <h6 style={{color : "#ffffff"}}>{Extras.user}</h6></p>
-
             </blockquote>
          </li>
       })
@@ -16,10 +15,8 @@ class Extras extends Component {
 
     return (
       <section id="Extras">
-
       <div className="text-container">
          <div className="row">
-
             <div className="twelve columns">
                 <h1  style={{color : '#ffcd15', fontSize : "40px"}}>Board Members</h1>
                    <h4  style={{color : '#ffcd15', paddingTop : '40px'}}> Rtn. Uraj Nakarmi </h4>
@@ -93,8 +90,6 @@ class Extras extends Component {
                      <h4  style={{color : '#ffcd15', paddingTop: '25px'}}></h4>
                    <h6 style={{color : "#ffffff"}}></h6>
                  </div>
-
-
             </div>
             </div>
          </div>

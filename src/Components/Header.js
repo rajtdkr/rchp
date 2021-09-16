@@ -17,9 +17,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-
       <nav id="nav-wrap">
-
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
@@ -29,9 +27,7 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#projects">RCHP Projects</a></li>
             <li><a className="smoothscroll" href="#Extras">Meet the Board</a></li>
             <li><a className="smoothscroll" href="#contactus">Contact Us</a></li>
-
          </ul>
-
       </nav>
 
       <div className="row banner">
@@ -39,21 +35,15 @@ class Header extends Component {
             <img className="profile-pic"  src="images/rotaryinternationallogo.png"  alt="Raj Tandukar Pic" />
          </div>
             <h1 style={{paddingBottom : '10%', fontSize: '70px', color : '#1b234a'}}>{name}</h1>
-
-
             <div style={{paddingBottom : '30%', color : '#000000' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></div>
             <hr />
-
-              <div  ><a  style={{color : '#f06000', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>
-
+              <div  ><a  style={{color : '#f06000', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect with us on facebook <FacebookOutlined /></a></div>
          </div>
       </div>
-
 
      <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
-
    </header>
     );
   }
