@@ -44,17 +44,14 @@ class Extras extends Component {
                     <h4  style={{color : '#ffcd15', paddingTop: '25px'}}>Rtn. Sumedh Shakya</h4>
                    <h6 style={{color : "#ffffff"}}>Jt. Secretary</h6>
                 </div>
-                 <div className="six columns">
-                     <h4  style={{color : '#ffcd15', paddingTop: '25px'}}>Immediate Past President</h4>
-                   <h6 style={{color : "#ffffff"}}>Rtn. Prabin Amatya</h6>
-                 </div>
+
                 <div className="six columns">
                     <h4  style={{color : '#ffcd15', paddingTop: '25px'}}>Rtn. Kaskhi Burlakoti</h4>
                    <h6 style={{color : "#ffffff"}}>Treasurer</h6>
                 </div>
                  <div className="six columns">
                      <h4  style={{color : '#ffcd15', paddingTop: '25px'}}>Rtn. Sanjeev Shakya</h4>
-                   <h6 style={{color : "#ffffff"}}>Jt. Tresarer</h6>
+                   <h6 style={{color : "#ffffff"}}>Jt. Treasurer</h6>
                  </div>
                 <div className="six columns">
                     <h4  style={{color : '#ffcd15', paddingTop: '25px'}}>Rtn. Shova Shakya Bajracharya</h4>
