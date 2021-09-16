@@ -35,7 +35,7 @@ class Footer extends Component {
     <h6>
               &copy; Copyright <br/>
               {/*<li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>*/}
-              Rotaract Club of Himalaya Patan
+              Rotary Club of Himalaya Patan
     </h6>
            </ul>
 
