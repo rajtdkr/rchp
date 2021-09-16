@@ -35,9 +35,13 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
-         <div className="banner-text">
-            <h1 className="responsive-headline" style={{paddingBottom : '5%' , color : '#1b234a'}}>{name}</h1>
-            <h3 style={{paddingBottom : '30%' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></h3>
+         <div className="banner-text"><div className="three columns">
+            <img className="profile-pic"  src="images/rotaryinternationallogo.png"  alt="Raj Tandukar Pic" />
+         </div>
+            <h1 style={{paddingBottom : '10%', fontSize: '70px', color : '#1b234a'}}>{name}</h1>
+
+
+            <div style={{paddingBottom : '30%', color : '#000000' , fontWeight: "bold", fontSize: '25px' , fontFamily : 'monospace'}}><span>{occupation}</span></div>
             <hr />
 
               <div  ><a  style={{color : '#f06000', fontSize : '20px', fontFamily: 'monospace'}} href="https://www.facebook.com/rotaryclubofhimalayapatan">Connect to us on facebook <FacebookOutlined /></a></div>
