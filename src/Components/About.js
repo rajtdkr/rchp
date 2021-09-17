@@ -20,7 +20,7 @@ class About extends Component {
          <div className="six columns main-col">
              <h1 style={{color : '#ffffff'}}>About us</h1>
               <p>
-                 This is official page of Rotary Club of Himalaya Patan, chartered on 17 September 2003 at Rotary International. Club No. #63381 District 3292 Nepal/Bhutan. The charter president of Rotary Club of Himalaya is Biso Raj Bajracharya.
+                 This is official page of Rotary Club of Himalaya Patan, chartered on 17 September 2003 at Rotary International. Club No. #63381 District 3290 Nepal/Bhutan. The charter president of Rotary Club of Himalaya Patan is Biso Raj Bajracharya.
              </p>
 
             <h1 style={{color : '#ffffff'}}>Our Causes</h1>
